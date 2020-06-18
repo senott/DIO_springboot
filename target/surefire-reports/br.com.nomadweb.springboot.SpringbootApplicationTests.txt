@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: br.com.nomadweb.springboot.SpringbootApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.72 s - in br.com.nomadweb.springboot.SpringbootApplicationTests
